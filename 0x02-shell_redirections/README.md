@@ -44,10 +44,10 @@ Task 21: Write a script that reverse its input.
 
 Task 22: DJ Cut Killer
 
-Task 100:
+Task 100: Write a command that finds all empty files and directories in the current directory and all sub-directories.
 
-Task 101:
+Task 101: Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 
-Task 102:
+Task 102: Create a script that decodes acrostics that use the first letter of each line.
 
-Task 103:
+Task 103: Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
