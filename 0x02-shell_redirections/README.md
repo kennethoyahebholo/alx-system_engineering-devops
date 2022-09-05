@@ -22,20 +22,32 @@ Task 10: Write a script that deletes all the regular files (not the directories)
 
 Task 11: Write a script that counts the number of directories and sub-directories in the current directory.
 
-Task 12:
+Task 12: Create a script that displays the 10 newest files in the current directory.
 
-Task 13:
+Task 13: Create a script that takes a list of words as input and prints only words that appear exactly once.
 
-Task 14:
+Task 14: Display lines containing the pattern “root” from the file
 
-Task 15:
+Task 15: Display the number of lines that contain the pattern “bin” in the file
 
-Task 16:
+Task 16: Display lines containing the pattern “root” and 3 lines after them in the file
 
-Task 17:
+Task 17: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
-Task 18:
+Task 18: Display all lines of the file /etc/ssh/sshd_config starting with a letter 
 
-Task 19:
+Task 19: Replace all characters A and c from input to Z and e respectively.
 
-Task 20: 
+Task 20: Create a script that removes all letters c and C from input.
+
+Task 21: Write a script that reverse its input.
+
+Task 22: DJ Cut Killer
+
+Task 100:
+
+Task 101:
+
+Task 102:
+
+Task 103:
